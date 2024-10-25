@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ <h1 align="center">Digital Drawing Board</h1>
+
+![Digital Drawing Board](https://img.shields.io/badge/Digital-Drawing%20Board-blue)
+
+Welcome to the Digital Drawing Board project! This application allows users to draw, erase, and manipulate shapes on a digital canvas using various tools. It's built with modern web technologies to provide a smooth and interactive drawing experience.
+
+## Features
+
+- **Drawing Tools**: Use the pencil, circle, square, and line tools to create drawings.
+- **Eraser**: Erase parts of your drawing with a normal eraser or remove entire shapes.
+- **Move Tool**: Select and move shapes around the canvas.
+- **Color Palette**: Choose from a set of colors or use a custom color picker.
+- **Clear Canvas**: Easily clear the entire canvas with a single click.
+
+## Technologies Used
+
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Lucide Icons](https://img.shields.io/badge/Lucide%20Icons-000000?style=for-the-badge&logo=lucide&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white)
+
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running, follow these simple steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Node.js and npm installed on your machine.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arslan2214/digital-board.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd digital-drawing-board
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
 
-## Learn More
+### Usage
 
-To learn more about Next.js, take a look at the following resources:
+1. Start the development server:
+   ```bash
+   npm start
+   ```
+2. Open your browser and go to `http://localhost:3000` to see the app in action.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Deploy on Vercel
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+About Me - [ARslan](https://github.com/Arslan2214/) - mycomputer2214@example.com
+
+Project Link: [https://github.com/Arslan2214/digital-board.git](https://github.com/Arslan2214/digital-board.git)
